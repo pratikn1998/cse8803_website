@@ -8,7 +8,7 @@
             <img src="pratik.jpeg">
         </div>
 
-        <div class="" style="max-width: 100%; max-height: 100%;">
+        <div class="" style="max-width: 20%; max-height: 20%;">
             Junyan Mao
              <img src="michael.jpg">
         </div>
