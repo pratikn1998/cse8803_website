@@ -13,7 +13,7 @@
         </div>
 
         <div class="" style="max-width: 20%; max-height: 20%;">
-            Rachit Bharghava
+           <img src="rachit.jpeg">
         </div>
  </div>
 
