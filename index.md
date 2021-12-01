@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## TweetCase: Predicting Pandemic Trends from Tweets
 
 You can use the [editor on GitHub](https://github.com/pratikn1998/cse8803_website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
