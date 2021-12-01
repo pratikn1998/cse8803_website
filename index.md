@@ -5,14 +5,15 @@
 <div id="banner" style="overflow: hidden; display: flex; justify-content:space-around;">
         <div class="" style="max-width: 20%; max-height: 20%;">
             Pratik Nallamotu
+            <img src="pratik.jpeg"></img>
         </div>
 
         <div class="" style="max-width: 100%; max-height: 100%;">
-            Junyan Mao 
+            Junyan Mao
         </div>
 
         <div class="" style="max-width: 20%; max-height: 20%;">
             Rachit Bharghava
         </div>
- </div>
 
+ </div>
