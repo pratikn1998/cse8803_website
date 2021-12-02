@@ -23,7 +23,7 @@
 ## Summary of TweetCaster
 
 ## Report
-<p>Here is our report: <a href="./CSE8803_final_report.pdf" download></a>
+<p>Here is our report: <a href="./CSE8803_final_report.pdf" download>Report</a>
  </p>
 
 ## Presentation Slides
