@@ -5,17 +5,17 @@
 <div id="banner" style="overflow: hidden; display: flex; justify-content:space-around;">
         <div class="" style="max-width: 20%; max-height: 20%;">
             Pratik Nallamotu
-            <img src="pratik.jpeg">
+            <img src="./figs/pratik.jpeg">
         </div>
 
         <div class="" style="max-width: 20%; max-height: 20%;">
             Junyan Mao
-             <img src="michael.jpg">
+             <img src="./figs/michael.jpg">
         </div>
 
         <div class="" style="max-width: 20%; max-height: 20%;">
             Rachit Bhargava
-            <img src="rachit.jpg">
+            <img src="./figs/rachit.jpg">
         </div>
 
  </div>
@@ -30,7 +30,7 @@
 <figure style="text-align: center;">
   <figcaption style="text-align: center;">Predicted Number of Cases with Multi-variable
 Linear Regression with Sentiment Analysis Data</figcaption>
-  <img src="lin_arima_ols.png" style="text-align: center;">
+  <img src="./figs/lin_arima_ols.png" style="text-align: center;">
 </figure>
 
 <p>Since our dataset was a time series dataset, we used times series models of ARIMA, OLS, an ensemble of ARIMA + OLS to predict new code cases. We found that Arima did a fairly well job at predicting sudden rises of COVID-19 cases, but OLS and the ensemble of the two were of poor performance. </p>
@@ -38,43 +38,43 @@ Linear Regression with Sentiment Analysis Data</figcaption>
 <figure style="text-align: center;">
   <figcaption style="text-align: center;">ARIMA Model</figcaption>
 
-  <img src="arima.png" style="text-align: center;">
+  <img src="./figs/arima.png" style="text-align: center;">
 </figure>
 <figure style="text-align: center;">
   <figcaption style="text-align: center;">OLS Model</figcaption>
-  <img src="ols.png">
+  <img src="./figs/ols.png">
 </figure>
 <figure style="text-align: center;">
   <figcaption style="text-align: center;">ARIMA + OLS Model</figcaption>
-  <img src="arima_ols.png">
+  <img src="./figs/arima_ols.png">
 </figure>
 <p>We also encoded the tweets with BERT and TF-IDF and found that both produce equally good results.</p>
 
 <figure style="text-align: center;">
   <figcaption style="text-align: center;">RMSE Values - Neural Network with Tweet Encodings</figcaption>
-  <img src="table_rmse.png">
+  <img src="./figs/table_rmse.png">
 </figure>
 
 <figure style="text-align: center;">
   <figcaption style="text-align: center;">Performance of BERTweet with rolling window of 7 days</figcaption>
-  <img src="bert_7.png">
+  <img src="./figs/bert_7.png">
 
 </figure>
 
 <figure style="text-align: center;">
   <figcaption style="text-align: center;">Smoothed graph of performance of BERTweet with
 rolling window of 7 day</figcaption>
-  <img src="bert_7_smoothed.png">
+  <img src="./figs/bert_7_smoothed.png">
 </figure>
 
 ## Report
 
-<p>Here is our report: <a href="./CSE8803_final_report.pdf" download>Report</a>
+<p>Here is our report: <a href="./DOC/CSE8803_final_report.pdf" download>Report</a>
  </p>
 
 ## Presentation Slides
 
-<p>Here is our presentation: <a href="./CSE8803 _presentation.pptx" download>Presentation</a>
+<p>Here is our presentation: <a href="./DOC/CSE8803 _presentation.pptx" download>Presentation</a>
  </p>
 
 ## Software
