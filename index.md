@@ -17,14 +17,15 @@
             Rachit Bhargava
             <img src="rachit.jpg">
         </div>
+
  </div>
 
-## Summary of TweetCaster 
+## Summary of TweetCaster
 
-## Report 
+## Report
+<p>Here is our report: <a href="./CSE8803_final_report.pdf" download></a>
+ </p>
 
 ## Presentation Slides
 
-## Software 
-
-
+## Software
