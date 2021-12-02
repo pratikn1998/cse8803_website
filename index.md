@@ -74,4 +74,7 @@ rolling window of 7 day</figcaption>
 
 ## Presentation Slides
 
+<p>Here is our presentation: <a href="./CSE8803 _presentation.pptx" download>Report</a>
+ </p>
+
 ## Software
