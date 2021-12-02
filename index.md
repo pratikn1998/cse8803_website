@@ -49,6 +49,23 @@ Linear Regression with Sentiment Analysis Data</figcaption>
 </figure>
 <p>We also encoded the tweets with BERT and TF-IDF and found that both produce equally good results.</p>
 
+<figure>
+  <img src="table_rmse.png">
+  <figcaption>RMSE Values - Neural Network with Tweet Encodings</figcaption>
+</figure>
+
+<figure>
+  <img src="bert_7.png">
+  <figcaption>Performance of BERTweet with rolling window of
+7 days</figcaption>
+</figure>
+
+<figure>
+  <img src="bert_7_smoothed.png">
+  <figcaption>Smoothed graph of performance of BERTweet with
+rolling window of 7 day</figcaption>
+</figure>
+
 ## Report
 
 <p>Here is our report: <a href="./CSE8803_final_report.pdf" download>Report</a>
