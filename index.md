@@ -36,6 +36,7 @@ Linear Regression with Sentiment Analysis Data</figcaption>
 <p>Since our dataset was a time series dataset, we used times series models of ARIMA, OLS, an ensemble of ARIMA + OLS to predict new code cases. We found that Arima did a fairly well job at predicting sudden rises of COVID-19 cases, but OLS and the ensemble of the two were of poor performance. </p>
 
 <figure>
+test
   <figcaption>ARIMA Model</figcaption>
 
   <img src="arima.png" style="text-align: center;">
