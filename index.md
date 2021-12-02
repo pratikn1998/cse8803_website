@@ -30,7 +30,7 @@
 <figure>
   <figcaption>Predicted Number of Cases with Multi-variable
 Linear Regression with Sentiment Analysis Data</figcaption>
-  <img src="lin_arima_ols.png">
+  <img src="lin_arima_ols.png" style="text-align: center;">
 </figure>
 
 <p>Since our dataset was a time series dataset, we used times series models of ARIMA, OLS, an ensemble of ARIMA + OLS to predict new code cases. We found that Arima did a fairly well job at predicting sudden rises of COVID-19 cases, but OLS and the ensemble of the two were of poor performance. </p>
@@ -38,7 +38,7 @@ Linear Regression with Sentiment Analysis Data</figcaption>
 <figure>
   <figcaption>ARIMA Model</figcaption>
 
-  <img src="arima.png">
+  <img src="arima.png" style="text-align: center;">
 </figure>
 <figure>
   <figcaption>OLS Model</figcaption>
