@@ -78,3 +78,6 @@ rolling window of 7 day</figcaption>
  </p>
 
 ## Software
+
+<p>Download our software and model here <a href="./TweetCaster.tgz" download>Software</a>
+ </p>
