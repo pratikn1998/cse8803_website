@@ -69,7 +69,7 @@ rolling window of 7 day</figcaption>
 
 ## Report
 
-<p>Here is our report: <a href="./tweetcaster_software/DOC/CSE8803_final_report.pdf" download>Report</a>
+<p>Here is our report: <a href="./tweetcaster_software/DOC/CSE8803_report.pdf" download>Report</a>
  </p>
 
 ## Presentation Slides
